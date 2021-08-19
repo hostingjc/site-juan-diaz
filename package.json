@@ -1,0 +1,14 @@
+{
+  "name": "site-juan",
+  "version": "1.0.0",
+  "description": "web de juan diaz desarrollador web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan diaz",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
